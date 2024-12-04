@@ -70,4 +70,4 @@ octocat
 
 ## Author
 Kobby24
-project url : [https://roadmap.sh/projects/github-user-activity]
+project url : https://roadmap.sh/projects/github-user-activity
